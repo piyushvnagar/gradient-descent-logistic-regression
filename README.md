@@ -1,0 +1,1 @@
+This notebook implements the gradient descent algorithm for a network with a single neuron with sigmoid activation. As explained in the lecture, This network is equivalent to a logistic regression model and is not a deep neural network but it helps illustrate the gradient descent algorithm.
